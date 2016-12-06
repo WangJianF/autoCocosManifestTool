@@ -1,0 +1,2 @@
+# autoCocosManifestTool
+生成cocos2d-x热更新manifest文件
